@@ -23,6 +23,7 @@ Export-Package: org.eclipse.passage.lic.internal.base;
  org.eclipse.passage.lic.internal.base.i18n;x-internal:=true,
  org.eclipse.passage.lic.internal.base.inspection;x-internal:=true,
  org.eclipse.passage.lic.internal.base.inspection.hardware;x-internal:=true,
+ org.eclipse.passage.lic.internal.base.inspection.location;x-internal:=true,
  org.eclipse.passage.lic.internal.base.io;x-friends:="org.eclipse.passage.lic.equinox,org.eclipse.passage.lbc.base",
  org.eclipse.passage.lic.internal.base.observatory;x-internal:=true,
  org.eclipse.passage.lic.internal.base.registry;x-internal:=true,
